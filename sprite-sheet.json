@@ -1,115 +1,102 @@
 {
-  "frames": {
-    "sydprick.png": {
-      "filename": "sydprick.png",
-      "frame": {
-        "x": 0,
-        "y": 0,
-        "w": 64,
-        "h": 64
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 64,
-        "h": 64
-      },
-      "sourceSize": {
-        "w": 64,
-        "h": 64
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
+  "sydprick.png": {
+    "filename": "sydprick.png",
+    "frame": {
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
     },
-    "vastprick.png": {
-      "filename": "vastprick.png",
-      "frame": {
-        "x": 66,
-        "y": 0,
-        "w": 64,
-        "h": 64
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 64,
-        "h": 64
-      },
-      "sourceSize": {
-        "w": 64,
-        "h": 64
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
     },
-    "nordprick.png": {
-      "filename": "nordprick.png",
-      "frame": {
-        "x": 0,
-        "y": 66,
-        "w": 64,
-        "h": 64
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 64,
-        "h": 64
-      },
-      "sourceSize": {
-        "w": 64,
-        "h": 64
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
+    "sourceSize": {
+      "w": 64,
+      "h": 64
     },
-    "ostprick.png": {
-      "filename": "ostprick.png",
-      "frame": {
-        "x": 66,
-        "y": 66,
-        "w": 64,
-        "h": 64
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 64,
-        "h": 64
-      },
-      "sourceSize": {
-        "w": 64,
-        "h": 64
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
     }
   },
-  "meta": {
-    "app": "https://imagemagixonline.com",
-    "version": "1.0",
-    "image": "sprite-sheet.png",
-    "format": "RGBA8888",
-    "size": {
-      "w": 132,
-      "h": 132
+  "vastprick.png": {
+    "filename": "vastprick.png",
+    "frame": {
+      "x": 66,
+      "y": 0,
+      "w": 64,
+      "h": 64
     },
-    "scale": "1"
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    "sourceSize": {
+      "w": 64,
+      "h": 64
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "nordprick.png": {
+    "filename": "nordprick.png",
+    "frame": {
+      "x": 0,
+      "y": 66,
+      "w": 64,
+      "h": 64
+    },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    "sourceSize": {
+      "w": 64,
+      "h": 64
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "ostprick.png": {
+    "filename": "ostprick.png",
+    "frame": {
+      "x": 66,
+      "y": 66,
+      "w": 64,
+      "h": 64
+    },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    "sourceSize": {
+      "w": 64,
+      "h": 64
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    }
   }
 }
