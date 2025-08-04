@@ -1,0 +1,51 @@
+{
+  "nordprick": {
+    "width": 32,
+    "height": 32,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "ostprick": {
+    "width": 32,
+    "height": 32,
+    "x": 32,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "overvattensten": {
+    "width": 32,
+    "height": 32,
+    "x": 0,
+    "y": 32,
+    "pixelRatio": 1
+  },
+  "sydprick": {
+    "width": 32,
+    "height": 32,
+    "x": 32,
+    "y": 32,
+    "pixelRatio": 1
+  },
+  "undervattensten": {
+    "width": 32,
+    "height": 32,
+    "x": 64,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "vastprick": {
+    "width": 32,
+    "height": 32,
+    "x": 96,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "vattenbryningsten": {
+    "width": 32,
+    "height": 32,
+    "x": 64,
+    "y": 32,
+    "pixelRatio": 1
+  }
+}
