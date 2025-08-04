@@ -1,102 +1,30 @@
 {
-  "sydprick.png": {
-    "filename": "sydprick.png",
-    "frame": {
-      "x": 0,
-      "y": 0,
-      "w": 64,
-      "h": 64
-    },
-    "rotated": false,
-    "trimmed": false,
-    "spriteSourceSize": {
-      "x": 0,
-      "y": 0,
-      "w": 64,
-      "h": 64
-    },
-    "sourceSize": {
-      "w": 64,
-      "h": 64
-    },
-    "pivot": {
-      "x": 0.5,
-      "y": 0.5
-    }
+  "sydprick": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 0,
   },
-  "vastprick.png": {
-    "filename": "vastprick.png",
-    "frame": {
-      "x": 66,
-      "y": 0,
-      "w": 64,
-      "h": 64
-    },
-    "rotated": false,
-    "trimmed": false,
-    "spriteSourceSize": {
-      "x": 0,
-      "y": 0,
-      "w": 64,
-      "h": 64
-    },
-    "sourceSize": {
-      "w": 64,
-      "h": 64
-    },
-    "pivot": {
-      "x": 0.5,
-      "y": 0.5
-    }
+  "vastprick": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 66,
+    "y": 0,
+  }
+  "nordprick": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 66,
   },
-  "nordprick.png": {
-    "filename": "nordprick.png",
-    "frame": {
-      "x": 0,
-      "y": 66,
-      "w": 64,
-      "h": 64
-    },
-    "rotated": false,
-    "trimmed": false,
-    "spriteSourceSize": {
-      "x": 0,
-      "y": 0,
-      "w": 64,
-      "h": 64
-    },
-    "sourceSize": {
-      "w": 64,
-      "h": 64
-    },
-    "pivot": {
-      "x": 0.5,
-      "y": 0.5
-    }
-  },
-  "ostprick.png": {
-    "filename": "ostprick.png",
-    "frame": {
-      "x": 66,
-      "y": 66,
-      "w": 64,
-      "h": 64
-    },
-    "rotated": false,
-    "trimmed": false,
-    "spriteSourceSize": {
-      "x": 0,
-      "y": 0,
-      "w": 64,
-      "h": 64
-    },
-    "sourceSize": {
-      "w": 64,
-      "h": 64
-    },
-    "pivot": {
-      "x": 0.5,
-      "y": 0.5
-    }
+  "ostprick": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 66,
+    "y": 66,
   }
 }
