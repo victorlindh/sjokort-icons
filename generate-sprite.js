@@ -34,7 +34,7 @@ const svgs = glob.sync('icons/*.svg').map(file => ({
 
 // Generate sprites for each ratio
 [1, 2].forEach(ratio => {
-  const suffix = ratio > 1 ? `@${ratio}` : '';
+  const suffix = ratio > 1 ? `@${ratio}x` : '';
   const jsonPath = path.join(outputDir, `sprite${suffix}.json`);
   const imgPath = path.join(outputDir, `sprite${suffix}.png`);
 
