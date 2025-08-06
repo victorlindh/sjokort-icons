@@ -39,7 +39,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><path
-       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-       d="m 4.2333333,8.4666667 1.0583334,-3.175 c 0,0 -0.031336,-1.3229167 -1.0583334,-1.3229167 C 3.2063358,3.96875 3.175,5.2916667 3.175,5.2916667 Z"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4.2333333,7.9375 1.5875,-5.8208333 c 0,0 0.00191,-1.60206771 -1.5875,-1.58750003 -1.5894066,0.0145677 -1.5875,1.58750003 -1.5875,1.58750003 z"
        id="path3"
        sodipodi:nodetypes="cczcc" /></g></svg>
