@@ -34,227 +34,248 @@
     "y": 0,
     "pixelRatio": 1
   },
-  "kummel": {
+  "gront_ljus": {
     "width": 32,
     "height": 32,
     "x": 96,
     "y": 0,
     "pixelRatio": 1
   },
-  "kummel_oldschool": {
+  "gult_ljus": {
     "width": 32,
     "height": 32,
     "x": 64,
     "y": 32,
     "pixelRatio": 1
   },
-  "linjetavla": {
+  "kummel": {
     "width": 32,
     "height": 32,
     "x": 96,
     "y": 32,
     "pixelRatio": 1
   },
-  "mittledsboj": {
+  "kummel_oldschool": {
     "width": 32,
     "height": 32,
     "x": 0,
+    "y": 64,
+    "pixelRatio": 1
+  },
+  "linjetavla": {
+    "width": 32,
+    "height": 32,
+    "x": 32,
+    "y": 64,
+    "pixelRatio": 1
+  },
+  "mittledsboj": {
+    "width": 32,
+    "height": 32,
+    "x": 64,
     "y": 64,
     "pixelRatio": 1
   },
   "mittledsprick": {
     "width": 32,
     "height": 32,
-    "x": 32,
+    "x": 96,
     "y": 64,
     "pixelRatio": 1
   },
   "mittledsrand": {
     "width": 32,
     "height": 32,
-    "x": 64,
-    "y": 64,
+    "x": 0,
+    "y": 96,
     "pixelRatio": 1
   },
   "nordboj": {
     "width": 32,
     "height": 32,
-    "x": 96,
-    "y": 64,
+    "x": 32,
+    "y": 96,
     "pixelRatio": 1
   },
   "nordprick": {
     "width": 32,
     "height": 32,
-    "x": 0,
+    "x": 64,
     "y": 96,
     "pixelRatio": 1
   },
   "nordrand": {
     "width": 32,
     "height": 32,
-    "x": 32,
+    "x": 96,
     "y": 96,
     "pixelRatio": 1
   },
   "ostboj": {
     "width": 32,
     "height": 32,
-    "x": 64,
-    "y": 96,
+    "x": 128,
+    "y": 0,
     "pixelRatio": 1
   },
   "ostprick": {
     "width": 32,
     "height": 32,
-    "x": 96,
-    "y": 96,
+    "x": 160,
+    "y": 0,
     "pixelRatio": 1
   },
   "ostrand": {
     "width": 32,
     "height": 32,
-    "x": 128,
+    "x": 192,
     "y": 0,
     "pixelRatio": 1
   },
   "overvattensten": {
     "width": 32,
     "height": 32,
-    "x": 160,
+    "x": 224,
     "y": 0,
     "pixelRatio": 1
   },
   "punktboj": {
     "width": 32,
     "height": 32,
-    "x": 192,
-    "y": 0,
+    "x": 128,
+    "y": 32,
     "pixelRatio": 1
   },
   "punktprick": {
     "width": 32,
     "height": 32,
-    "x": 224,
-    "y": 0,
+    "x": 160,
+    "y": 32,
     "pixelRatio": 1
   },
   "punktrand": {
     "width": 32,
     "height": 32,
-    "x": 128,
+    "x": 192,
     "y": 32,
     "pixelRatio": 1
   },
   "radarreflektor": {
     "width": 32,
     "height": 32,
-    "x": 160,
+    "x": 224,
     "y": 32,
+    "pixelRatio": 1
+  },
+  "rott_ljus": {
+    "width": 32,
+    "height": 32,
+    "x": 128,
+    "y": 64,
     "pixelRatio": 1
   },
   "sektorfyr": {
     "width": 32,
     "height": 32,
-    "x": 192,
-    "y": 32,
+    "x": 160,
+    "y": 64,
     "pixelRatio": 1
   },
   "specialboj": {
     "width": 32,
     "height": 32,
-    "x": 224,
-    "y": 32,
+    "x": 192,
+    "y": 64,
     "pixelRatio": 1
   },
   "specialprick": {
     "width": 32,
     "height": 32,
-    "x": 128,
+    "x": 224,
     "y": 64,
     "pixelRatio": 1
   },
   "specialrand": {
     "width": 32,
     "height": 32,
-    "x": 160,
-    "y": 64,
+    "x": 128,
+    "y": 96,
     "pixelRatio": 1
   },
   "styrbordsboj": {
     "width": 32,
     "height": 32,
-    "x": 192,
-    "y": 64,
+    "x": 160,
+    "y": 96,
     "pixelRatio": 1
   },
   "styrbordsprick": {
     "width": 32,
     "height": 32,
-    "x": 224,
-    "y": 64,
+    "x": 192,
+    "y": 96,
     "pixelRatio": 1
   },
   "styrbordsrand": {
     "width": 32,
     "height": 32,
-    "x": 128,
+    "x": 224,
     "y": 96,
     "pixelRatio": 1
   },
   "sydboj": {
     "width": 32,
     "height": 32,
-    "x": 160,
-    "y": 96,
-    "pixelRatio": 1
-  },
-  "sydprick": {
-    "width": 32,
-    "height": 32,
-    "x": 192,
-    "y": 96,
-    "pixelRatio": 1
-  },
-  "sydrand": {
-    "width": 32,
-    "height": 32,
-    "x": 224,
-    "y": 96,
-    "pixelRatio": 1
-  },
-  "undervattensten": {
-    "width": 32,
-    "height": 32,
     "x": 0,
     "y": 128,
     "pixelRatio": 1
   },
-  "vastboj": {
+  "sydprick": {
     "width": 32,
     "height": 32,
     "x": 32,
     "y": 128,
     "pixelRatio": 1
   },
-  "vastprick": {
+  "sydrand": {
     "width": 32,
     "height": 32,
     "x": 64,
     "y": 128,
     "pixelRatio": 1
   },
-  "vastrand": {
+  "undervattensten": {
     "width": 32,
     "height": 32,
     "x": 96,
     "y": 128,
     "pixelRatio": 1
   },
-  "vattenbryningsten": {
+  "vastboj": {
     "width": 32,
     "height": 32,
     "x": 128,
+    "y": 128,
+    "pixelRatio": 1
+  },
+  "vastprick": {
+    "width": 32,
+    "height": 32,
+    "x": 160,
+    "y": 128,
+    "pixelRatio": 1
+  },
+  "vastrand": {
+    "width": 32,
+    "height": 32,
+    "x": 192,
+    "y": 128,
+    "pixelRatio": 1
+  },
+  "vattenbryningsten": {
+    "width": 32,
+    "height": 32,
+    "x": 224,
     "y": 128,
     "pixelRatio": 1
   }
