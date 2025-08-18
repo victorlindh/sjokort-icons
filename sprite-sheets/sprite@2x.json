@@ -13,270 +13,305 @@
     "y": 0,
     "pixelRatio": 2
   },
-  "barbordsprick": {
+  "barbordsboj_color": {
     "width": 64,
     "height": 64,
     "x": 0,
     "y": 64,
     "pixelRatio": 2
   },
-  "barbordsrand": {
+  "barbordsprick": {
     "width": 64,
     "height": 64,
     "x": 64,
+    "y": 64,
+    "pixelRatio": 2
+  },
+  "barbordsprick_color": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "barbordsrand": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "barbordsrand_color": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
     "y": 64,
     "pixelRatio": 2
   },
   "fyr": {
     "width": 64,
     "height": 64,
-    "x": 128,
-    "y": 0,
+    "x": 192,
+    "y": 64,
     "pixelRatio": 2
   },
   "gront_ljus": {
     "width": 64,
     "height": 64,
-    "x": 192,
-    "y": 0,
+    "x": 0,
+    "y": 128,
     "pixelRatio": 2
   },
   "gult_ljus": {
     "width": 64,
     "height": 64,
-    "x": 128,
-    "y": 64,
+    "x": 64,
+    "y": 128,
     "pixelRatio": 2
   },
   "kummel": {
     "width": 64,
     "height": 64,
-    "x": 192,
-    "y": 64,
+    "x": 128,
+    "y": 128,
     "pixelRatio": 2
   },
   "kummel_oldschool": {
     "width": 64,
     "height": 64,
-    "x": 0,
+    "x": 192,
     "y": 128,
     "pixelRatio": 2
   },
   "linjetavla": {
     "width": 64,
     "height": 64,
-    "x": 64,
-    "y": 128,
+    "x": 0,
+    "y": 192,
     "pixelRatio": 2
   },
   "mittledsboj": {
     "width": 64,
     "height": 64,
-    "x": 128,
-    "y": 128,
+    "x": 64,
+    "y": 192,
     "pixelRatio": 2
   },
   "mittledsprick": {
     "width": 64,
     "height": 64,
-    "x": 192,
-    "y": 128,
+    "x": 128,
+    "y": 192,
     "pixelRatio": 2
   },
   "mittledsrand": {
     "width": 64,
     "height": 64,
-    "x": 0,
+    "x": 192,
     "y": 192,
     "pixelRatio": 2
   },
   "nordboj": {
     "width": 64,
     "height": 64,
-    "x": 64,
-    "y": 192,
+    "x": 256,
+    "y": 0,
     "pixelRatio": 2
   },
   "nordprick": {
     "width": 64,
     "height": 64,
-    "x": 128,
-    "y": 192,
+    "x": 320,
+    "y": 0,
     "pixelRatio": 2
   },
   "nordrand": {
     "width": 64,
     "height": 64,
-    "x": 192,
-    "y": 192,
+    "x": 384,
+    "y": 0,
     "pixelRatio": 2
   },
   "ostboj": {
     "width": 64,
     "height": 64,
-    "x": 256,
+    "x": 448,
     "y": 0,
     "pixelRatio": 2
   },
   "ostprick": {
     "width": 64,
     "height": 64,
-    "x": 320,
-    "y": 0,
+    "x": 256,
+    "y": 64,
     "pixelRatio": 2
   },
   "ostrand": {
     "width": 64,
     "height": 64,
-    "x": 384,
-    "y": 0,
+    "x": 320,
+    "y": 64,
     "pixelRatio": 2
   },
   "overvattensten": {
     "width": 64,
     "height": 64,
-    "x": 448,
-    "y": 0,
+    "x": 384,
+    "y": 64,
     "pixelRatio": 2
   },
   "punktboj": {
     "width": 64,
     "height": 64,
-    "x": 256,
+    "x": 448,
     "y": 64,
     "pixelRatio": 2
   },
   "punktprick": {
     "width": 64,
     "height": 64,
-    "x": 320,
-    "y": 64,
+    "x": 256,
+    "y": 128,
     "pixelRatio": 2
   },
   "punktrand": {
     "width": 64,
     "height": 64,
-    "x": 384,
-    "y": 64,
+    "x": 320,
+    "y": 128,
     "pixelRatio": 2
   },
   "radarreflektor": {
     "width": 64,
     "height": 64,
-    "x": 448,
-    "y": 64,
+    "x": 384,
+    "y": 128,
     "pixelRatio": 2
   },
   "rott_ljus": {
     "width": 64,
     "height": 64,
-    "x": 256,
+    "x": 448,
     "y": 128,
     "pixelRatio": 2
   },
   "sektorfyr": {
     "width": 64,
     "height": 64,
-    "x": 320,
-    "y": 128,
+    "x": 256,
+    "y": 192,
     "pixelRatio": 2
   },
   "specialboj": {
     "width": 64,
     "height": 64,
-    "x": 384,
-    "y": 128,
+    "x": 320,
+    "y": 192,
     "pixelRatio": 2
   },
   "specialprick": {
     "width": 64,
     "height": 64,
-    "x": 448,
-    "y": 128,
+    "x": 384,
+    "y": 192,
     "pixelRatio": 2
   },
   "specialrand": {
     "width": 64,
     "height": 64,
-    "x": 256,
+    "x": 448,
     "y": 192,
     "pixelRatio": 2
   },
   "styrbordsboj": {
     "width": 64,
     "height": 64,
-    "x": 320,
-    "y": 192,
-    "pixelRatio": 2
-  },
-  "styrbordsprick": {
-    "width": 64,
-    "height": 64,
-    "x": 384,
-    "y": 192,
-    "pixelRatio": 2
-  },
-  "styrbordsrand": {
-    "width": 64,
-    "height": 64,
-    "x": 448,
-    "y": 192,
-    "pixelRatio": 2
-  },
-  "sydboj": {
-    "width": 64,
-    "height": 64,
     "x": 0,
     "y": 256,
     "pixelRatio": 2
   },
-  "sydprick": {
+  "styrbordsboj_color": {
     "width": 64,
     "height": 64,
     "x": 64,
     "y": 256,
     "pixelRatio": 2
   },
-  "sydrand": {
+  "styrbordsprick": {
     "width": 64,
     "height": 64,
     "x": 128,
     "y": 256,
     "pixelRatio": 2
   },
-  "undervattensten": {
+  "styrbordsprick_color": {
     "width": 64,
     "height": 64,
     "x": 192,
     "y": 256,
     "pixelRatio": 2
   },
-  "vastboj": {
+  "styrbordsrand": {
     "width": 64,
     "height": 64,
     "x": 256,
     "y": 256,
     "pixelRatio": 2
   },
-  "vastprick": {
+  "sydboj": {
     "width": 64,
     "height": 64,
     "x": 320,
     "y": 256,
     "pixelRatio": 2
   },
-  "vastrand": {
+  "sydprick": {
     "width": 64,
     "height": 64,
     "x": 384,
     "y": 256,
     "pixelRatio": 2
   },
-  "vattenbryningsten": {
+  "sydrand": {
     "width": 64,
     "height": 64,
     "x": 448,
     "y": 256,
+    "pixelRatio": 2
+  },
+  "undervattensten": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 320,
+    "pixelRatio": 2
+  },
+  "vastboj": {
+    "width": 64,
+    "height": 64,
+    "x": 64,
+    "y": 320,
+    "pixelRatio": 2
+  },
+  "vastprick": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 320,
+    "pixelRatio": 2
+  },
+  "vastrand": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 320,
+    "pixelRatio": 2
+  },
+  "vattenbryningsten": {
+    "width": 64,
+    "height": 64,
+    "x": 256,
+    "y": 320,
     "pixelRatio": 2
   }
 }
