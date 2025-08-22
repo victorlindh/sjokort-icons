@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="32"
-   height="32"
-   viewBox="0 0 8.4666667 8.4666667"
-   version="1.1"
-   id="svg1"
-   xml:space="preserve"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="styrbordsprick_color.svg"
-   inkscape:export-filename="..\png\ostprick.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="16"
-     inkscape:cx="17.59375"
-     inkscape:cy="18.15625"
-     inkscape:window-width="1920"
-     inkscape:window-height="1129"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" /><defs
-     id="defs1" /><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"><path
-       id="path2"
-       style="fill:#00ff04;fill-opacity:1;stroke:#000000;stroke-width:0.13229167;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4.2333333,0.26458334 c -0.015874,0 -0.8016869,1.55985766 -0.79375,1.57561446 0.00352,0.00698 0.3161511,0.011089 0.6614584,0.011886 V 7.16132 A 0.52916664,0.52916688 0 0 0 3.7217367,7.540625 H 2.778125 V 7.8052084 H 3.7217367 A 0.52916664,0.52916688 0 0 0 4.2333333,8.2020834 0.52916664,0.52916688 0 0 0 4.74493,7.8052084 H 5.6885417 V 7.540625 H 4.74493 A 0.52916664,0.52916688 0 0 0 4.365625,7.16132 V 1.8520834 c 0.3453072,-7.963e-4 0.6579426,-0.00491 0.6614583,-0.011886 0.00794,-0.015757 -0.7778762,-1.57561446 -0.79375,-1.57561446 z m 0,7.14375006 A 0.26458332,0.26458332 0 0 1 4.4979167,7.6729167 0.26458332,0.26458332 0 0 1 4.2333333,7.9375 0.26458332,0.26458332 0 0 1 3.96875,7.6729167 0.26458332,0.26458332 0 0 1 4.2333333,7.4083334 Z" /></g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-107,0)">
+        <g id="styrbordsprick_color" transform="matrix(1,0,0,1,107.852,0)">
+            <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="32" height="32"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1.92765,-2.84217e-14,-11.8344)">
+                    <rect x="15.5" y="11.61" width="1" height="2.334"/>
+                </g>
+                <g id="Pinne" transform="matrix(7.55906,0,0,2.59614,-16,8.92351)">
+                    <rect x="4.101" y="1.587" width="0.265" height="5.953" style="fill:rgb(30,129,69);"/>
+                </g>
+                <g transform="matrix(0.845674,0,0,0.890905,6.39205,2.05865)">
+                    <path d="M11.361,3.546L15.5,10.281L7.223,10.281L11.361,3.546Z"/>
+                </g>
+                <g id="Bottom" transform="matrix(3.77953,0,0,3.77953,7.1811e-07,0)">
+                    <path d="M4.233,7.408C3.943,7.408 3.704,7.647 3.704,7.938C3.704,8.228 3.943,8.467 4.233,8.467C4.524,8.467 4.762,8.228 4.763,7.937C4.762,7.647 4.524,7.408 4.233,7.408ZM4.233,7.673C4.378,7.673 4.498,7.792 4.498,7.938C4.498,8.083 4.378,8.202 4.233,8.202C4.088,8.202 3.969,8.083 3.969,7.938C3.969,7.792 4.088,7.673 4.233,7.673Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g id="Botten" transform="matrix(0.376562,0,0,1,13.9142,3.40157e-07)">
+                    <rect x="9.522" y="29.5" width="13.278" height="1"/>
+                </g>
+                <g id="Botten1" serif:id="Botten" transform="matrix(0.376562,0,0,1,5.91424,3.40157e-07)">
+                    <rect x="9.522" y="29.5" width="13.278" height="1"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

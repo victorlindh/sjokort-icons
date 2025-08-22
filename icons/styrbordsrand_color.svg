@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-142,-34)">
-        <g id="barbordsrand_color" transform="matrix(1,0,0,1,142.852,34.6292)">
+    <g transform="matrix(1,0,0,1,-107,-34)">
+        <g id="styrbordsrand_color" transform="matrix(1,0,0,1,107.852,34.6292)">
             <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
             <clipPath id="_clip1">
                 <rect x="0" y="0" width="32" height="32"/>
@@ -21,7 +21,7 @@
                 </g>
                 <g id="Layer-1" serif:id="Layer 1" transform="matrix(3.77953,0,0,3.77953,0,0)">
                     <g id="rect3" transform="matrix(4,0,0,0.664672,-12.7,2.92546)">
-                        <path d="M4.167,7.541L4.101,7.541L4.101,1.587L4.366,1.587L4.366,7.541L4.299,7.541C4.299,7.322 4.27,7.143 4.233,7.143C4.197,7.143 4.167,7.322 4.167,7.541Z" style="fill:rgb(215,27,35);"/>
+                        <path d="M4.167,7.541L4.101,7.541L4.101,1.587L4.366,1.587L4.366,7.541L4.299,7.541C4.299,7.322 4.27,7.143 4.233,7.143C4.197,7.143 4.167,7.322 4.167,7.541Z" style="fill:rgb(30,129,69);"/>
                     </g>
                     <path id="path2" d="M4.233,7.408C3.943,7.408 3.704,7.647 3.704,7.938C3.704,8.228 3.943,8.467 4.233,8.467C4.524,8.467 4.762,8.228 4.763,7.937C4.762,7.647 4.524,7.408 4.233,7.408ZM4.233,7.673C4.378,7.673 4.498,7.792 4.498,7.938C4.498,8.083 4.378,8.202 4.233,8.202C4.088,8.202 3.969,8.083 3.969,7.938C3.969,7.792 4.088,7.673 4.233,7.673Z" style="fill-rule:nonzero;"/>
                     <rect id="rect2" x="2.778" y="7.805" width="1.058" height="0.265"/>
