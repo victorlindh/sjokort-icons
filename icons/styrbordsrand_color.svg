@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-107,-34)">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-107.852,-34.6292)">
         <g id="styrbordsrand_color" transform="matrix(1,0,0,1,107.852,34.6292)">
             <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
             <clipPath id="_clip1">
@@ -28,8 +28,8 @@
                     <g transform="matrix(0.264583,0,0,0.453354,0,-2.34098)">
                         <rect x="15.5" y="11.61" width="1" height="2.334"/>
                     </g>
-                    <g id="rect4" transform="matrix(1,0,0,1,-5e-08,0.673332)">
-                        <rect x="3.572" y="0.661" width="1.323" height="1.588"/>
+                    <g transform="matrix(0.223751,0,0,0.235719,1.69123,0.544684)">
+                        <path d="M11.361,3.546L15.5,10.281L7.223,10.281L11.361,3.546Z"/>
                     </g>
                     <rect id="rect2-8" x="4.63" y="7.805" width="1.058" height="0.265"/>
                 </g>
