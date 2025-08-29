@@ -25,7 +25,7 @@
     "pixelRatio": 4,
     "width": 128,
     "x": 1848,
-    "y": 524
+    "y": 656
   },
   "barbordsprick_color": {
     "height": 132,
@@ -62,110 +62,117 @@
     "x": 0,
     "y": 260
   },
-  "gront_ljus": {
+  "fyr": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 780,
     "y": 260
+  },
+  "gront_ljus": {
+    "height": 132,
+    "pixelRatio": 4,
+    "width": 132,
+    "x": 780,
+    "y": 392
   },
   "gult_ljus": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 780,
-    "y": 392
+    "y": 524
   },
   "kummel": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
-    "x": 780,
-    "y": 524
+    "x": 792,
+    "y": 656
   },
   "kummel_oldschool": {
     "height": 128,
     "pixelRatio": 4,
     "width": 132,
-    "x": 1836,
-    "y": 396
+    "x": 1848,
+    "y": 528
   },
   "linjetavla": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 792,
-    "y": 656
-  },
-  "mittledsboj": {
-    "height": 132,
-    "pixelRatio": 4,
-    "width": 132,
-    "x": 792,
     "y": 788
   },
-  "mittledsboj_color": {
+  "mittledsboj": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 912,
     "y": 260
   },
-  "mittledsprick": {
+  "mittledsboj_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1040,
     "y": 0
   },
-  "mittledsrand": {
+  "mittledsprick": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 912,
     "y": 392
   },
-  "mittledsrand_color": {
+  "mittledsrand": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 912,
     "y": 524
   },
-  "nordboj": {
+  "mittledsrand_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 924,
     "y": 656
   },
-  "nordboj_color": {
+  "nordboj": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 924,
     "y": 788
   },
-  "nordprick": {
+  "nordboj_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1044,
     "y": 132
   },
-  "nordrand": {
+  "nordprick": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1172,
     "y": 0
   },
-  "nordrand_color": {
+  "nordrand": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1044,
     "y": 264
+  },
+  "nordrand_color": {
+    "height": 132,
+    "pixelRatio": 4,
+    "width": 132,
+    "x": 1044,
+    "y": 396
   },
   "obstruktion": {
     "height": 260,
@@ -185,85 +192,85 @@
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
-    "x": 1044,
-    "y": 396
-  },
-  "ostboj_color": {
-    "height": 132,
-    "pixelRatio": 4,
-    "width": 132,
     "x": 1056,
     "y": 528
   },
-  "ostprick": {
+  "ostboj_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1176,
     "y": 132
   },
-  "ostrand": {
+  "ostprick": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1304,
     "y": 0
   },
-  "ostrand_color": {
+  "ostrand": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1176,
     "y": 264
   },
-  "overvattensten": {
+  "ostrand_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1176,
     "y": 396
   },
-  "punktboj": {
+  "overvattensten": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1056,
     "y": 660
   },
-  "punktboj_color": {
+  "punktboj": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1056,
     "y": 792
   },
-  "punktprick": {
+  "punktboj_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1188,
     "y": 528
   },
-  "punktrand": {
+  "punktprick": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1308,
     "y": 132
   },
-  "punktrand_color": {
+  "punktrand": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1436,
     "y": 0
   },
-  "radarreflektor": {
+  "punktrand_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1308,
     "y": 264
+  },
+  "radarreflektor": {
+    "height": 132,
+    "pixelRatio": 4,
+    "width": 132,
+    "x": 1308,
+    "y": 396
   },
   "radarstation": {
     "height": 260,
@@ -276,183 +283,183 @@
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
-    "x": 1308,
-    "y": 396
+    "x": 1188,
+    "y": 660
   },
   "sektorfyr": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1188,
-    "y": 660
-  },
-  "specialboj": {
-    "height": 132,
-    "pixelRatio": 4,
-    "width": 132,
-    "x": 1188,
     "y": 792
   },
-  "specialboj_color": {
+  "specialboj": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1320,
     "y": 528
   },
-  "specialprick": {
+  "specialboj_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1440,
     "y": 132
   },
-  "specialrand": {
+  "specialprick": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1568,
     "y": 0
   },
-  "specialrand_color": {
+  "specialrand": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1440,
     "y": 264
   },
-  "styrbordsboj": {
+  "specialrand_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1440,
     "y": 396
+  },
+  "styrbordsboj": {
+    "height": 132,
+    "pixelRatio": 4,
+    "width": 132,
+    "x": 1320,
+    "y": 660
   },
   "styrbordsboj_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1320,
-    "y": 660
+    "y": 792
   },
   "styrbordsprick": {
     "height": 128,
     "pixelRatio": 4,
     "width": 128,
-    "x": 1848,
-    "y": 652
+    "x": 1584,
+    "y": 660
   },
   "styrbordsprick_color": {
-    "height": 132,
-    "pixelRatio": 4,
-    "width": 132,
-    "x": 1320,
-    "y": 792
-  },
-  "styrbordsrand": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1452,
     "y": 528
   },
-  "styrbordsrand_color": {
+  "styrbordsrand": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1572,
     "y": 132
   },
-  "sydboj": {
+  "styrbordsrand_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1700,
     "y": 0
   },
-  "sydboj_color": {
+  "sydboj": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1572,
     "y": 264
   },
-  "sydprick": {
+  "sydboj_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1572,
     "y": 396
   },
-  "sydrand": {
+  "sydprick": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1452,
     "y": 660
   },
-  "sydrand_color": {
+  "sydrand": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1452,
     "y": 792
   },
-  "undervattensten": {
+  "sydrand_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1832,
     "y": 0
   },
-  "vastboj": {
+  "undervattensten": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1584,
     "y": 528
   },
-  "vastboj_color": {
+  "vastboj": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1704,
     "y": 132
+  },
+  "vastboj_color": {
+    "height": 132,
+    "pixelRatio": 4,
+    "width": 132,
+    "x": 1704,
+    "y": 264
   },
   "vastprick": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1704,
-    "y": 264
-  },
-  "vastrand": {
-    "height": 132,
-    "pixelRatio": 4,
-    "width": 132,
-    "x": 1704,
     "y": 396
   },
-  "vastrand_color": {
+  "vastrand": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1716,
     "y": 528
   },
-  "vattenbryningsten": {
+  "vastrand_color": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1836,
     "y": 132
   },
-  "vattenbryningsten_klack": {
+  "vattenbryningsten": {
     "height": 132,
     "pixelRatio": 4,
     "width": 132,
     "x": 1836,
     "y": 264
+  },
+  "vattenbryningsten_klack": {
+    "height": 132,
+    "pixelRatio": 4,
+    "width": 132,
+    "x": 1836,
+    "y": 396
   },
   "vindkraftverk": {
     "height": 260,

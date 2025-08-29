@@ -25,7 +25,7 @@
     "pixelRatio": 2,
     "width": 64,
     "x": 924,
-    "y": 262
+    "y": 328
   },
   "barbordsprick_color": {
     "height": 66,
@@ -62,110 +62,117 @@
     "x": 0,
     "y": 130
   },
-  "gront_ljus": {
+  "fyr": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 390,
     "y": 130
+  },
+  "gront_ljus": {
+    "height": 66,
+    "pixelRatio": 2,
+    "width": 66,
+    "x": 390,
+    "y": 196
   },
   "gult_ljus": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 390,
-    "y": 196
+    "y": 262
   },
   "kummel": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
-    "x": 390,
-    "y": 262
+    "x": 396,
+    "y": 328
   },
   "kummel_oldschool": {
     "height": 64,
     "pixelRatio": 2,
     "width": 66,
-    "x": 918,
-    "y": 198
+    "x": 924,
+    "y": 264
   },
   "linjetavla": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 396,
-    "y": 328
-  },
-  "mittledsboj": {
-    "height": 66,
-    "pixelRatio": 2,
-    "width": 66,
-    "x": 396,
     "y": 394
   },
-  "mittledsboj_color": {
+  "mittledsboj": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 456,
     "y": 130
   },
-  "mittledsprick": {
+  "mittledsboj_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 520,
     "y": 0
   },
-  "mittledsrand": {
+  "mittledsprick": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 456,
     "y": 196
   },
-  "mittledsrand_color": {
+  "mittledsrand": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 456,
     "y": 262
   },
-  "nordboj": {
+  "mittledsrand_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 462,
     "y": 328
   },
-  "nordboj_color": {
+  "nordboj": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 462,
     "y": 394
   },
-  "nordprick": {
+  "nordboj_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 522,
     "y": 66
   },
-  "nordrand": {
+  "nordprick": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 586,
     "y": 0
   },
-  "nordrand_color": {
+  "nordrand": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 522,
     "y": 132
+  },
+  "nordrand_color": {
+    "height": 66,
+    "pixelRatio": 2,
+    "width": 66,
+    "x": 522,
+    "y": 198
   },
   "obstruktion": {
     "height": 130,
@@ -185,85 +192,85 @@
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
-    "x": 522,
-    "y": 198
-  },
-  "ostboj_color": {
-    "height": 66,
-    "pixelRatio": 2,
-    "width": 66,
     "x": 528,
     "y": 264
   },
-  "ostprick": {
+  "ostboj_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 588,
     "y": 66
   },
-  "ostrand": {
+  "ostprick": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 652,
     "y": 0
   },
-  "ostrand_color": {
+  "ostrand": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 588,
     "y": 132
   },
-  "overvattensten": {
+  "ostrand_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 588,
     "y": 198
   },
-  "punktboj": {
+  "overvattensten": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 528,
     "y": 330
   },
-  "punktboj_color": {
+  "punktboj": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 528,
     "y": 396
   },
-  "punktprick": {
+  "punktboj_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 594,
     "y": 264
   },
-  "punktrand": {
+  "punktprick": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 654,
     "y": 66
   },
-  "punktrand_color": {
+  "punktrand": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 718,
     "y": 0
   },
-  "radarreflektor": {
+  "punktrand_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 654,
     "y": 132
+  },
+  "radarreflektor": {
+    "height": 66,
+    "pixelRatio": 2,
+    "width": 66,
+    "x": 654,
+    "y": 198
   },
   "radarstation": {
     "height": 130,
@@ -276,183 +283,183 @@
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
-    "x": 654,
-    "y": 198
+    "x": 594,
+    "y": 330
   },
   "sektorfyr": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 594,
-    "y": 330
-  },
-  "specialboj": {
-    "height": 66,
-    "pixelRatio": 2,
-    "width": 66,
-    "x": 594,
     "y": 396
   },
-  "specialboj_color": {
+  "specialboj": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 660,
     "y": 264
   },
-  "specialprick": {
+  "specialboj_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 720,
     "y": 66
   },
-  "specialrand": {
+  "specialprick": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 784,
     "y": 0
   },
-  "specialrand_color": {
+  "specialrand": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 720,
     "y": 132
   },
-  "styrbordsboj": {
+  "specialrand_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 720,
     "y": 198
+  },
+  "styrbordsboj": {
+    "height": 66,
+    "pixelRatio": 2,
+    "width": 66,
+    "x": 660,
+    "y": 330
   },
   "styrbordsboj_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 660,
-    "y": 330
+    "y": 396
   },
   "styrbordsprick": {
     "height": 64,
     "pixelRatio": 2,
     "width": 64,
-    "x": 924,
-    "y": 326
+    "x": 792,
+    "y": 330
   },
   "styrbordsprick_color": {
-    "height": 66,
-    "pixelRatio": 2,
-    "width": 66,
-    "x": 660,
-    "y": 396
-  },
-  "styrbordsrand": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 726,
     "y": 264
   },
-  "styrbordsrand_color": {
+  "styrbordsrand": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 786,
     "y": 66
   },
-  "sydboj": {
+  "styrbordsrand_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 850,
     "y": 0
   },
-  "sydboj_color": {
+  "sydboj": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 786,
     "y": 132
   },
-  "sydprick": {
+  "sydboj_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 786,
     "y": 198
   },
-  "sydrand": {
+  "sydprick": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 726,
     "y": 330
   },
-  "sydrand_color": {
+  "sydrand": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 726,
     "y": 396
   },
-  "undervattensten": {
+  "sydrand_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 916,
     "y": 0
   },
-  "vastboj": {
+  "undervattensten": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 792,
     "y": 264
   },
-  "vastboj_color": {
+  "vastboj": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 852,
     "y": 66
+  },
+  "vastboj_color": {
+    "height": 66,
+    "pixelRatio": 2,
+    "width": 66,
+    "x": 852,
+    "y": 132
   },
   "vastprick": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 852,
-    "y": 132
-  },
-  "vastrand": {
-    "height": 66,
-    "pixelRatio": 2,
-    "width": 66,
-    "x": 852,
     "y": 198
   },
-  "vastrand_color": {
+  "vastrand": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 858,
     "y": 264
   },
-  "vattenbryningsten": {
+  "vastrand_color": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 918,
     "y": 66
   },
-  "vattenbryningsten_klack": {
+  "vattenbryningsten": {
     "height": 66,
     "pixelRatio": 2,
     "width": 66,
     "x": 918,
     "y": 132
+  },
+  "vattenbryningsten_klack": {
+    "height": 66,
+    "pixelRatio": 2,
+    "width": 66,
+    "x": 918,
+    "y": 198
   },
   "vindkraftverk": {
     "height": 130,

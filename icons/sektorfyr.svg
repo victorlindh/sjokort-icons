@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-1151,-40)">
+    <g transform="matrix(1,0,0,1,-1151,-3)">
         <g transform="matrix(1,0,0,1,0,-24.2585)">
-            <g id="fyr" transform="matrix(1,0,0,1,1151.32,64.2941)">
+            <g id="sektorfyr" transform="matrix(1,0,0,1,1151.32,27.4731)">
                 <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
                 <g transform="matrix(4.28919,0,0,4.28919,11.7398,13.6886)">
                     <path d="M3.908,-0.409L2.196,0.937L2.813,3.011L0.998,1.808L-0.786,3.043L-0.201,0.937L-1.919,-0.376L0.257,-0.472L0.983,-2.509L1.74,-0.472L3.908,-0.409Z"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
+<svg width="100%" height="100%" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,-1257,-185)">
         <g transform="matrix(1,0,0,1,0,-24.2585)">
             <g id="ostboj" transform="matrix(1,0,0,1,1257.82,210.044)">
@@ -19,7 +19,7 @@
                         <rect x="9.522" y="29.5" width="13.278" height="1"/>
                     </g>
                     <g id="rak-pinne" serif:id="rak pinne" transform="matrix(1.25241,0.335583,-3.11302,11.6179,-811.073,-2586.06)">
-                        <path d="M1138.24,190.131L1138.34,192.127" style="fill:none;stroke:black;stroke-width:0.12px;"/>
+                        <path d="M1137.85,190.131L1138.62,190.131L1138.73,192.127L1137.96,192.127L1137.85,190.131Z"/>
                     </g>
                     <g transform="matrix(2.09803,0,0,2.09803,19.2013,3.3333)">
                         <path d="M0,1.642L2.571,2.363L1.912,-0.452L0,1.642Z" style="fill-rule:nonzero;"/>
