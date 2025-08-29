@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,0,-35.6741)">
-        <g id="overvattensten" transform="matrix(1,0,0,1,0,35.6741)">
-            <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
-            <clipPath id="_clip1">
-                <rect x="0" y="0" width="32" height="32"/>
-            </clipPath>
-            <g clip-path="url(#_clip1)">
-                <g transform="matrix(0.472331,0,0,0.369207,-2685.05,-1770.9)">
-                    <rect x="5684.68" y="4833.07" width="67.749" height="13.543" style="fill:rgb(21,21,21);"/>
+<svg width="100%" height="100%" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1082,-268)">
+        <g transform="matrix(1,0,0,1,974.973,83.482)">
+            <g id="overvattensten" transform="matrix(1,0,0,1,107.352,184.912)">
+                <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
+                <g transform="matrix(0.369008,0,-2.35187e-33,0.298798,-2094.19,-1430.13)">
+                    <rect x="5684.68" y="4833.07" width="67.749" height="13.543"/>
                 </g>
-                <g transform="matrix(1.67205e-17,0.273066,-0.369207,2.26074e-17,1802.9,-1552.29)">
-                    <rect x="5684.68" y="4833.07" width="67.749" height="13.543" style="fill:rgb(21,21,21);"/>
+                <g transform="matrix(1.30629e-17,0.213333,-0.295366,1.80859e-17,1445.52,-1209.22)">
+                    <rect x="5684.68" y="4833.07" width="67.749" height="13.543"/>
                 </g>
             </g>
         </g>

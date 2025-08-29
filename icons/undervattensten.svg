@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-35,-35.6741)">
-        <g id="undervattensten" transform="matrix(1,0,0,1,35,35.6741)">
-            <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
-            <clipPath id="_clip1">
-                <rect x="0" y="0" width="32" height="32"/>
-            </clipPath>
-            <g clip-path="url(#_clip1)">
-                <g transform="matrix(1.67205e-17,-0.273066,0.369207,2.26074e-17,-1770.9,1584.34)">
-                    <rect x="5684.68" y="4833.07" width="67.749" height="13.543" style="fill:rgb(21,21,21);"/>
+<svg width="100%" height="100%" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1118,-268)">
+        <g transform="matrix(1,0,0,1,974.973,83.482)">
+            <g id="undervattensten" transform="matrix(1,0,0,1,143.852,184.912)">
+                <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
+                <g transform="matrix(1.30629e-17,-0.213333,0.296365,1.81471e-17,-1418.31,1241.27)">
+                    <rect x="5684.68" y="4833.07" width="67.749" height="13.543"/>
                 </g>
-                <g transform="matrix(-0.472331,-5.78438e-17,4.52148e-17,-0.369207,2717.05,1802.95)">
-                    <rect x="5684.68" y="4833.07" width="67.749" height="13.543" style="fill:rgb(21,21,21);"/>
+                <g transform="matrix(-0.369008,-4.51905e-17,3.59581e-17,-0.293621,2126.19,1437.12)">
+                    <rect x="5684.68" y="4833.07" width="67.749" height="13.543"/>
                 </g>
             </g>
         </g>

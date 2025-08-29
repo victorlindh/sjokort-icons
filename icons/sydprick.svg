@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-212,0)">
-        <g id="sydprick" transform="matrix(1,0,0,1,212.852,0)">
-            <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
-            <clipPath id="_clip1">
-                <rect x="0" y="0" width="32" height="32"/>
-            </clipPath>
-            <g clip-path="url(#_clip1)">
-                <g id="Bottom" transform="matrix(3.77953,0,0,3.77953,7.1811e-07,0)">
-                    <path d="M4.233,7.408C3.943,7.408 3.704,7.647 3.704,7.938C3.704,8.228 3.943,8.467 4.233,8.467C4.524,8.467 4.762,8.228 4.763,7.937C4.762,7.647 4.524,7.408 4.233,7.408ZM4.233,7.673C4.378,7.673 4.498,7.792 4.498,7.938C4.498,8.083 4.378,8.202 4.233,8.202C4.088,8.202 3.969,8.083 3.969,7.938C3.969,7.792 4.088,7.673 4.233,7.673Z" style="fill-rule:nonzero;"/>
-                </g>
-                <g id="Botten" transform="matrix(0.376562,0,0,1,13.9142,3.40157e-07)">
-                    <rect x="9.522" y="29.5" width="13.278" height="1"/>
-                </g>
-                <g id="Botten1" serif:id="Botten" transform="matrix(0.376562,0,0,1,5.91424,3.40157e-07)">
-                    <rect x="9.522" y="29.5" width="13.278" height="1"/>
-                </g>
-                <g id="Pinne" transform="matrix(7.55906,0,0,2.90304,-16,6.60924)">
-                    <rect x="4.101" y="1.587" width="0.265" height="5.953"/>
-                </g>
-                <g id="Syd" transform="matrix(1,0,0,1,0,0.0448744)">
-                    <g transform="matrix(-0.845674,1.03565e-16,-1.09104e-16,-0.890905,25.6079,16.6592)">
-                        <path d="M11.361,3.546L15.5,10.281L7.223,10.281L11.361,3.546Z"/>
+<svg width="100%" height="100%" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1187,-83)">
+        <g transform="matrix(1,0,0,1,0,-24.2585)">
+            <g id="sydprick" transform="matrix(1,0,0,1,1187.82,107.741)">
+                <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
+                <clipPath id="_clip1">
+                    <rect x="0" y="0" width="32" height="32"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g id="Bottom" transform="matrix(3.77953,0,0,3.77953,7.1811e-07,0)">
+                        <path d="M4.233,7.408C3.943,7.408 3.704,7.647 3.704,7.938C3.704,8.228 3.943,8.467 4.233,8.467C4.524,8.467 4.762,8.228 4.763,7.937C4.762,7.647 4.524,7.408 4.233,7.408ZM4.233,7.673C4.378,7.673 4.498,7.792 4.498,7.938C4.498,8.083 4.378,8.202 4.233,8.202C4.088,8.202 3.969,8.083 3.969,7.938C3.969,7.792 4.088,7.673 4.233,7.673Z" style="fill-rule:nonzero;"/>
                     </g>
-                    <g transform="matrix(-0.845674,1.03565e-16,-1.09104e-16,-0.890905,25.6079,11.6592)">
-                        <path d="M11.361,3.546L15.5,10.281L7.223,10.281L11.361,3.546Z"/>
+                    <g id="Botten" transform="matrix(0.376562,0,0,1,13.9142,3.40157e-07)">
+                        <rect x="9.522" y="29.5" width="13.278" height="1"/>
+                    </g>
+                    <g id="Botten1" serif:id="Botten" transform="matrix(0.376562,0,0,1,5.91424,3.40157e-07)">
+                        <rect x="9.522" y="29.5" width="13.278" height="1"/>
+                    </g>
+                    <g id="Pinne" transform="matrix(5.66929,0,0,2.26772,-8,11.4)">
+                        <rect x="4.101" y="1.587" width="0.265" height="5.953"/>
+                    </g>
+                    <g id="syd">
+                        <g id="Pinne1" serif:id="Pinne" transform="matrix(3.83013,0,0,1.58989,-0.214204,3.27092)">
+                            <rect x="4.101" y="1.587" width="0.265" height="5.953"/>
+                        </g>
+                        <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,1254.77,158.37)">
+                            <path d="M1235.95,155.37L1241.59,155.37L1238.77,150.021L1235.95,155.37Z"/>
+                        </g>
+                        <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,1254.77,163.736)">
+                            <path d="M1235.95,155.37L1241.59,155.37L1238.77,150.021L1235.95,155.37Z"/>
+                        </g>
                     </g>
                 </g>
             </g>
